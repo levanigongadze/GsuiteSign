@@ -1,4 +1,4 @@
-GsuiteSign - Simplify Google Workspace Signature Management
+
 GsuiteSign is a platform designed to help Google Workspace administrators streamline and centralize user signature management. With GsuiteSign, you can create, update, and manage email signatures for all users in your organization from a single, user-friendly dashboard. Say goodbye to manual updates and inconsistencies—GsuiteSign ensures every email reflects your organization’s branding and professionalism.
 
 ✨ Features
